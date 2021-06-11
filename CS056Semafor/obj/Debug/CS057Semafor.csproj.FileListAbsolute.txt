@@ -1,0 +1,10 @@
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\bin\Debug\CS056Semafor.exe.config
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\bin\Debug\CS056Semafor.exe
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\bin\Debug\CS056Semafor.pdb
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS057Semafor.csprojAssemblyReference.cache
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS056Semafor.SemaforForm.resources
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS056Semafor.Properties.Resources.resources
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS057Semafor.csproj.GenerateResource.cache
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS057Semafor.csproj.CoreCompileInputs.cache
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS056Semafor.exe
+D:\Users\David Minárik\Downloads\CS056Semafor\CS056Semafor\obj\Debug\CS056Semafor.pdb
